@@ -1,0 +1,16 @@
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.dll
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Castle.Core.xml
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Pro\documents\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
